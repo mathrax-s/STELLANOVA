@@ -1,0 +1,9 @@
+C:\Program Files (x86)\Cypress\PSoC Creator\4.3\PSoC Creator\dev\psoc4\PSoC4AnalogDevice\psoc4arch.cydsn\psoc4arch.cyprj|ab05b729-a1bd-44fc-8a2e-18cb02f90921
+C:\Program Files (x86)\Cypress\PSoC Creator\4.3\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|3e588a88-945d-4e9a-ba78-def0c877aeda
+C:\Users\SHOZO\Documents\PSoC Creator\4.3\Downloads ( 4.3).cylib\Downloads ( 4.3).cyprj|3e532e40-0d51-468e-bcaa-a3d8ce0e4c06
+C:\Users\SHOZO\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\Downloads ( 4.2).cyprj|924d4275-5397-42e5-9df1-97c5839ca50b
+C:\Program Files (x86)\Cypress\PSoC Creator\4.3\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|f3f70cc7-f040-4208-813f-0764cbdc39bd
+C:\Program Files (x86)\Cypress\PSoC Creator\4.3\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|99594ae1-d3e9-4d55-b538-d092eb034c1d
+C:\Program Files (x86)\Cypress\PSoC Creator\4.3\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|ee201a91-97f3-4bdd-96d6-e552c54d59fe
+C:\Program Files (x86)\Cypress\PSoC Creator\4.3\PSoC Creator\psoc\content\default\CyReferenceLibrary\CyReferenceLibrary.cylib\CyReferenceLibrary.cyprj|07e7c62e-3a33-4c4d-abf3-f3d33af9fb62
+C:\Users\SHOZO\Documents\PSoC Creator\STELLANOVA_2021\STELLANOVA_2021.cydsn\STELLANOVA_2021.cyprj|572cdaf4-d3fe-440a-8e01-aa80f72fe6c6
